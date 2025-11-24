@@ -25,8 +25,8 @@ Create a fully functional ATM menu system that behaves like a real ATM using onl
 ## 📥  Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/venky0914/Bytecode-projects.git
-cd <ATM console project>
+git clone https://https://github.com/venky0914/Bytecode-Projects
+cd <ATM  project>
 ```
 
 ## 🔁 Typical flow:
