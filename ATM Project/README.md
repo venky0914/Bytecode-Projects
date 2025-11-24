@@ -51,9 +51,11 @@ cd <ATM  project>
 ```
 
 ## 📸 Screenshot:
-<img width="1364" height="599" alt="Screenshot 2025-11-24 114621" src="https://github.com/user-attachments/assets/24c81805-d22e-4843-bf34-52469f1ec83b" />
+<img width="1216" height="537" alt="Screenshot 2025-11-24 222622" src="https://github.com/user-attachments/assets/48107a90-9044-44b4-9608-e36ca241179e" />
 
-<img width="1181" height="706" alt="Screenshot 2025-11-24 114641" src="https://github.com/user-attachments/assets/888eadc2-fab3-4684-acf7-1d5dcee482cf" />
+
+<img width="1212" height="397" alt="Screenshot 2025-11-24 222649" src="https://github.com/user-attachments/assets/0a8335c0-79b0-4f6b-8fa8-196ecea51bdf" />
+
 
 
 
@@ -69,7 +71,7 @@ cd <ATM  project>
 
 
 ## 👨‍💻 Author
-Konukanti Laxman
+Bommideni Venkateshwar
 
 ---
 *Generated from the project requirements screenshot.*
