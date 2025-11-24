@@ -1,5 +1,5 @@
 
-# 🏦 Secure Banking ATM Console Application
+# 🏦  Banking ATM Console Application
 
 ## 📌 Project Overview
 **Secure Banking ATM Console Application** is a console-based Python project that simulates the core functionality of a real bank ATM. The application is designed to be straightforward, exam-ready, and implemented using only `while` loops to practice control flow logic.
@@ -8,7 +8,7 @@
 Create a fully functional ATM menu system that behaves like a real ATM using only `while` loops. The application should provide clear prompts and messages for the user and handle invalid operations gracefully.
 
 ## ✨Features
-- 🔐 PIN verification (default correct PIN: `2004`)
+- 🔐 PIN verification (default correct PIN: `2434`)
 - ❌Maximum **3 wrong attempts** → account/card gets blocked
 - 📋Main menu after successful PIN entry:
   - Check Balance
